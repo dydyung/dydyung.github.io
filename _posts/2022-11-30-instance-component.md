@@ -1,6 +1,6 @@
 # 인스턴스와 컴포넌트
 
-` code 안에 있는 내용은 <script></script>를 생략한다. `
+`code 안에 있는 내용은 <script></script>를 생략한다.`
 
 # Instance
 
@@ -79,7 +79,7 @@ new Vue({ //객체를 통째로 인자에 넣어주는 방식
 
   - 영역을 구분했을 때 컴포넌트 간의 관계가 생긴다.
 
-    ![image-20221201104434383](K:\My files\1. Study\Typora\Vue.js\2022-11-30-instance-component.assets\image-20221201104434383.png)
+
 
 ## 전역 컴포넌트
 
@@ -141,7 +141,6 @@ new Vue({ //객체를 통째로 인자에 넣어주는 방식
 >
 > → **데이터의 흐름과 버그를 추적할 수 있다. (N방향 통신)**
 
-![image-20221201150202935](K:\My files\1. Study\Typora\Vue.js\2022-11-30-instance-component.assets\image-20221201150202935.png)
 
 - **상위 → 하위:** 데이터를 내려줌, <u>*프롭스 속성*</u>
 - **하위 → 상위:** 이벤트를 올려줌, <u>*이벤트 발생*</u>
