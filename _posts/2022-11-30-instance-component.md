@@ -190,3 +190,6 @@ new Vue({ //객체를 통째로 인자에 넣어주는 방식
 
 ### event 에밋
 
+
+<img width="80%}" src="https://user-images.githubusercontent.com/110404800/205086234-700c16f7-b962-4a1e-b99c-8f8118f10342.jpg"/>
+
